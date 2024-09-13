@@ -1,3 +1,18 @@
+# Despesa-Rastreador
+
+<img src="/vue/public/image.png" />
+
+Projeto rastreador de despesas, Tipo um app de um banco que coloca seu dinheiro ali dentro e ver o tanto de despesas que vc fez em comprar coisa materias, e mostra o saldo que vc tem na sua conta.
+
+## Tecnologias
+ 
+Html
+css
+Js
+Vue
+Json
+
+
 # vue
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,4 +42,3 @@ npm run dev
 ```sh
 npm run build
 ```
-# Despesa-Rastreador
